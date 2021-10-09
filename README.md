@@ -8,3 +8,4 @@ Tutorial básico de Git para Código IoT
  Este texto fue agregado para hacer uso de GitHub Desktop
 
 prueba con git-nano en raspberry pi4
+prueba con visual Studio desde raspberry
